@@ -1,0 +1,40 @@
+body{
+    padding: 10px;
+   
+}
+.name{
+    height:70px;
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+    align-items: center;
+}
+.pic{ height: 200px;
+width: 250px;
+position: relative;
+top: 10px;
+left: 650px;}
+.usn{
+    color:rgb(211, 146, 62);
+    font-style: inherit;
+    font-size: medium;
+    text-align: center;
+}
+
+.language{
+    font-size: medium;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.footer{
+    height: 250px;
+    display:flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    background-color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
